@@ -1,0 +1,6 @@
+{
+  "name": "TrustConnect",
+  "description": "TrustConnect.ug - Uganda's premier secure house maid and employer connection platform featuring biometric identity verification, MTN & Airtel Mobile Money integration, GPS tracking, contracts management, and 24/7 support led by CEO Mugisha El-shaddai.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
